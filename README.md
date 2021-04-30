@@ -4,11 +4,11 @@ Raspberry Pi Pico and Pimoroni Unicorn.
 
 How the result could look like on Raspberry Pi Pico
 
-[[eye_pico.jpg]]
+![Eye on the RPi Pico](eye_pico.jpg)
 
 converted from original
 
-[[desktop-py/img/ceye.jpg]]
+![The source image of eye](desktop-py/img/ceye.jpg)
 
 ## pre-requisites
 
